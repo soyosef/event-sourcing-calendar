@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7dHeQGR5ci2DAEdji2k/FxtSWasQu4cTEHZsdFlDfNkJqHtF/OCwiuOewe9Y9BBQRRz0XS1PhGnGn8tr71/27w==",
+  "dgSpecHash": "78UkPC7mLCXMjalehoqlmXej8304GhzvXA3s3ocf/P+WI6uWE7SBZcWJrOi567vOg7MAmwTv0A9QQmaySot3rA==",
   "success": true,
   "projectFilePath": "/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/EventSourcingCalendar.Api.csproj",
-  "expectedPackageFiles": [
-    "/Users/yos/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/yos/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/yos/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/Users/yos/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/Users/yos/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/yos/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

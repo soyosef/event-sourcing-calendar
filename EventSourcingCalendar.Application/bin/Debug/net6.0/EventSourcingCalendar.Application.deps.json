@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "EventSourcingCalendar.Application/1.0.0": {
+        "dependencies": {
+          "EventSourcingCalendar.Domain": "1.0.0"
+        },
         "runtime": {
           "EventSourcingCalendar.Application.dll": {}
+        }
+      },
+      "EventSourcingCalendar.Domain/1.0.0": {
+        "runtime": {
+          "EventSourcingCalendar.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "EventSourcingCalendar.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EventSourcingCalendar.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

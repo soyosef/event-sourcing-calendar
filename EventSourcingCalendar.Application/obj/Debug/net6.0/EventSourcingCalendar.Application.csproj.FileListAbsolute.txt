@@ -10,3 +10,6 @@
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Application/obj/Debug/net6.0/refint/EventSourcingCalendar.Application.dll
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Application/obj/Debug/net6.0/EventSourcingCalendar.Application.pdb
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Application/obj/Debug/net6.0/ref/EventSourcingCalendar.Application.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Application/bin/Debug/net6.0/EventSourcingCalendar.Domain.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Application/bin/Debug/net6.0/EventSourcingCalendar.Domain.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Application/obj/Debug/net6.0/EventSourcingCalendar.Application.csproj.CopyComplete

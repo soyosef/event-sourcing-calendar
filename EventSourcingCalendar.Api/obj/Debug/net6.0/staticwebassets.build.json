@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vlFu7CmxU/J1twY4IjuTyflGZ1bDbx915KgSA2fx9zM=",
+  "Source": "EventSourcingCalendar.Api",
+  "BasePath": "_content/EventSourcingCalendar.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

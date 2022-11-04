@@ -1,0 +1,12 @@
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/bin/Debug/net6.0/EventSourcingCalendar.Contracts.deps.json
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/bin/Debug/net6.0/EventSourcingCalendar.Contracts.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/bin/Debug/net6.0/EventSourcingCalendar.Contracts.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.csproj.AssemblyReference.cache
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.AssemblyInfoInputs.cache
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.AssemblyInfo.cs
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.csproj.CoreCompileInputs.cache
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/refint/EventSourcingCalendar.Contracts.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/EventSourcingCalendar.Contracts.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Contracts/obj/Debug/net6.0/ref/EventSourcingCalendar.Contracts.dll

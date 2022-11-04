@@ -1,0 +1,12 @@
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/bin/Debug/net6.0/EventSourcingCalendar.Domain.deps.json
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/bin/Debug/net6.0/EventSourcingCalendar.Domain.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/bin/Debug/net6.0/EventSourcingCalendar.Domain.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.csproj.AssemblyReference.cache
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.AssemblyInfoInputs.cache
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.AssemblyInfo.cs
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.csproj.CoreCompileInputs.cache
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/refint/EventSourcingCalendar.Domain.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/EventSourcingCalendar.Domain.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Domain/obj/Debug/net6.0/ref/EventSourcingCalendar.Domain.dll

@@ -10,3 +10,8 @@
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/obj/Debug/net6.0/refint/EventSourcingCalendar.Infrastructure.dll
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/obj/Debug/net6.0/EventSourcingCalendar.Infrastructure.pdb
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/obj/Debug/net6.0/ref/EventSourcingCalendar.Infrastructure.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/bin/Debug/net6.0/EventSourcingCalendar.Application.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/bin/Debug/net6.0/EventSourcingCalendar.Domain.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/bin/Debug/net6.0/EventSourcingCalendar.Application.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/bin/Debug/net6.0/EventSourcingCalendar.Domain.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/obj/Debug/net6.0/EventSourcingCalendar.Infrastructure.csproj.CopyComplete

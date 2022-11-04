@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "F+bCu4WyyXwaTRirBc6AqFdWzWbFAbc0ywWFhaQDi6srdLsz6eLThKeVuYTacPCNRBibxktho+fbOUHqzhVXsg==",
+  "dgSpecHash": "ePTycEvmMLTtcKpa/82xksLtqboRY8DcZeowM+s4VtXKecYDDUQOmnCcPSBVSgOwGP74ZNTWNfRfoIZEa2LIQA==",
   "success": true,
   "projectFilePath": "/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Infrastructure/EventSourcingCalendar.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/yos/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -53,11 +53,20 @@ Add dependencies:
 ```bash
 $ dotnet add ./EventSourcingCalendar.Api/ reference ./EventSourcingCalendar.Contracts/ ./EventSourcingCalendar.Application/
 
+$ dotnet add ./EventSourcingCalendar.Infrastructure/ reference ./EventSourcingCalendar.Application/
+
 $ dotnet add ./EventSourcingCalendar.Application/ reference ./EventSourcingCalendar.Domain/
 
 $ dotnet add ./EventSourcingCalendar.Api/ reference ./EventSourcingCalendar.Infrastructure/
 ```
 
 Remove files:
+```bash
 $ rm -rf ./EventSourcingCalendar.Api/WeatherForecast.cs 
 $ rm -rf ./EventSourcingCalendar.Api/Controllers/WeatherForecastController.cs
+```
+
+Add package for dependency injection:
+```bash
+$ dotnet add ./EventSourcingCalendar.Application/ package Microsoft.Extensions.DependencyInjection.Abstractions
+```

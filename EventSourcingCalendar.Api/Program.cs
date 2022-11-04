@@ -1,8 +1,12 @@
-using EventSourcingCalendar.Application.Services.Authentication;
+using EventSourcingCalendar.Application;
+using EventSourcingCalendar.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 {
-  builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
+  // builder.Services.AddScoped<IAuthenticationService, AuthenticationService>();
+  builder.Services
+  .AddApplication()
+  .AddInfrastructure();
   builder.Services.AddControllers();
 }
 

@@ -2,7 +2,12 @@
 Calendar demo app using domain driven design, clean architecture, event sourcing, C# and VSCode (instead of Visual Studio).
 
 # Usage
-TODO
+- Install REST Client extension in VSCode
+- run api:
+```bash
+$ dotnet run --project ./EventSourcingCalendar.Api/ 
+```
+- open /requests/*.http files and click on send request
 
 # User Stories
 - User can create new calendars

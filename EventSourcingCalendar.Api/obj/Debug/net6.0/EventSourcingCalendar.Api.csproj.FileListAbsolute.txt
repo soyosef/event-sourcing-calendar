@@ -5,6 +5,14 @@
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Api.runtimeconfig.json
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Api.dll
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Api.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Application.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Contracts.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Domain.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Infrastructure.dll
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Contracts.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Application.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Infrastructure.pdb
+/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Domain.pdb
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/obj/Debug/net6.0/EventSourcingCalendar.Api.csproj.AssemblyReference.cache
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/obj/Debug/net6.0/EventSourcingCalendar.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/obj/Debug/net6.0/EventSourcingCalendar.Api.AssemblyInfoInputs.cache
@@ -20,11 +28,3 @@
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/obj/Debug/net6.0/EventSourcingCalendar.Api.pdb
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/obj/Debug/net6.0/EventSourcingCalendar.Api.genruntimeconfig.cache
 /Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/obj/Debug/net6.0/ref/EventSourcingCalendar.Api.dll
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Application.dll
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Contracts.dll
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Domain.dll
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Infrastructure.dll
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Contracts.pdb
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Application.pdb
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Infrastructure.pdb
-/Users/yos/code/projects/event-sourcing-calendar/dotnet/EventSourcingCalendar/EventSourcingCalendar.Api/bin/Debug/net6.0/EventSourcingCalendar.Domain.pdb
